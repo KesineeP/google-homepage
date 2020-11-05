@@ -1,3 +1,3 @@
 Google-homepage
 
-The goal of this project is to start thinking about how elements get placed on the page and roughly how they get styled and aligned
+Recreate google-homepage for The Odin Project using only HTML and CSS
